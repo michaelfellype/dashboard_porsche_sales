@@ -97,4 +97,5 @@ Acesse o link publicado ou baixe o arquivo `index.html` e abra-o em um navegador
 
 Projeto educacional desenvolvido para praticar análise de dados, construção de dashboards com apoio de IA e publicação na web.
 
-Não possui vínculo oficial com a Porsche.
+Não possui vínculo oficial com a Porsche. <img width="1402" height="690" alt="image" src="https://github.com/user-attachments/assets/b06ffb4b-8256-4091-971e-ad5ab2ba5c8d" />
+
