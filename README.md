@@ -2,7 +2,7 @@
 
 Dashboard interativa desenvolvida como projeto educacional da DIO. A aplicação transforma uma planilha com 100 registros de vendas em indicadores, gráficos e filtros para explorar os resultados.
 
-🔗 [Acessar a dashboard](https://fellipemec.github.io/dashboard_porsche_sales/)
+https://michaelfellype.github.io/dashboard_porsche_sales/
 
 ## Perguntas de negócio
 
@@ -98,8 +98,7 @@ A lógica foi testada para as opções dos seis filtros, seleção de datas inv�
 
 ### Online
 
-Acesse a [dashboard publicada](https://fellipemec.github.io/dashboard_porsche_sales/).
-
+Acesse a https://michaelfellype.github.io/dashboard_porsche_sales/
 ### No computador
 
 1. Baixe o arquivo `index.html` deste repositório.
